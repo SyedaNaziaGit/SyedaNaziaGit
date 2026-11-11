@@ -5,19 +5,9 @@
 
 I've spent ~3 years building production backend services in Python, most recently for a social media analytics SaaS platform. Now I'm combining that foundation with GenAI and system design to build reliable, scalable AI-powered systems.
 
-### Connect with me:
+## Connect with me:
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://githubusercontent.com" alt="linkedin" height="40" width="40" />
-  </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://githubusercontent.com" alt="leetcode" height="40" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![LeetCode](https://shields.io)](https://leetcode.com)
 
 
 ## 🔭 What I'm working on
