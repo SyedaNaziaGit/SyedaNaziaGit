@@ -1,6 +1,7 @@
 # Hi, I'm Nazia 👋
 
 **Python Backend Developer · Agentic AI · System Design**
+
 📍 Bengaluru, India
 
 I've spent ~3 years building production backend services in Python, most recently for a social media analytics SaaS platform. Now I'm combining that foundation with GenAI and system design to build reliable, scalable AI-powered systems.
